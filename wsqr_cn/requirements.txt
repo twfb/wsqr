@@ -1,0 +1,15 @@
+# 核心依赖
+opencv-python-headless
+numpy
+typer
+rich
+psutil
+
+# 二维码解码引擎
+pyzbar
+zxing-cpp
+qreader
+
+# 可选依赖（用于模型下载）
+requests
+dns_client
